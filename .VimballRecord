@@ -1,0 +1,2 @@
+ruby-sinatra-0.2.0.vba: call delete('/home/brad/.vim/ftdetect/ruby-sinatra.vim')|call delete('/home/brad/.vim/snippets/ruby-sinatra.snippets')|call delete('/home/brad/.vim/syntax/ruby-sinatra.vim')
+checksyntax.vba: call delete('/home/brad/.vim/doc/checksyntax.txt')|call delete('/home/brad/.vim/plugin/checksyntax.vim')|call delete('/home/brad/.vim/autoload/checksyntax.vim')
